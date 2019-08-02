@@ -1,0 +1,83 @@
+
+ucom.example.demo.controller.HomeController#contentNegotiationTest(Ljava/lang/Integer;)Lcom/example/demo/dtos/Student;
+__unknown_file (id"paramAnnotations*û
+1ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java, ,(«ƒ
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java, ,(
+%0"com.example.demo.dtos.StudentŸ
+÷
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java, ,(
+%1"'com.example.demo.dtos.Student#<init>()V*
+
+%0π
+∂
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java, ,( 
+model"__id*
+
+%0Å
+˛
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java- -(
+%2"?com.example.demo.dtos.Student#setFirstName(Ljava/lang/String;)V*	
+
+model*	
+Ashwini¸
+˘
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java. .(
+%3"=com.example.demo.dtos.Student#setAddress(Ljava/lang/String;)V*	
+
+model*
+puneÁ
+‰
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java/ /(
+%4"*com.example.demo.dtos.Student#setStuId(I)V*	
+
+model*
+
+id"™
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java0 0(	
+
+model*Ù
+paramAnnotationsú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java*4 *(T¯
+ı
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java( )(3
+%5"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*
+
+idˆ
+Û
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java* *(
+%6"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+idˆ
+Û
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java*5 *(H
+%7"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*
+
+idŒ
+À
+ú
+ëC:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\controller\HomeController.java*Q *(S
+id"__annotation*
+
+%5*
+
+%6*
+
+%7*
+1

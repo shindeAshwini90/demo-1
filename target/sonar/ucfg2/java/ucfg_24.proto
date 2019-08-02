@@ -1,0 +1,100 @@
+
+πcom.example.demo.exception.GlobalControllerExceptionHandler#handleValidationExceptionException(Lcom/example/demo/exception/ValidationException;)Lorg/springframework/http/ResponseEntity;
+__unknown_file (ex"paramAnnotations*æ
+1≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (,‚ﬂ
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (*
+%0"'com.example.demo.exception.ErrorDetailsÙ
+Ò
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (,
+%1"1com.example.demo.exception.ErrorDetails#<init>()V*
+
+%0Ã
+…
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (-	
+details"__id*
+
+%0ê
+ç
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (!
+%2"Mcom.example.demo.exception.ValidationException#getMessage()Ljava/lang/String;*
+
+exì
+ê
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java ("
+%3"Ccom.example.demo.exception.ErrorDetails#setMgs(Ljava/lang/String;)V*
+	
+details*
+
+%2˘
+ˆ
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (/
+%4"__id*8*6%
+#org.springframework.http.HttpStatus"
+BAD_REQUESTÔ
+Ï
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (7
+%5",org.springframework.http.HttpStatus#value()I*
+
+%4õ
+ò
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (8
+%6"Kcom.example.demo.exception.ErrorDetails#setStatusCode(Ljava/lang/Integer;)V*
+	
+details*
+
+%5˘
+ˆ
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.javaC (Y
+%7"__id*8*6%
+#org.springframework.http.HttpStatus"
+BAD_REQUEST‚ﬂ
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java* (:
+%8"'org.springframework.http.ResponseEntity¿
+Ω
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java& (Z
+%9"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*
+
+%8*
+	
+details*
+
+%7»
+≈
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java ([
+res"__id*
+
+%8"π
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (
+
+res*©
+paramAnnotations≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.javaH (`å
+â
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java (.
+%10"
+__annotate*<:
+8org.springframework.web.bind.annotation.ExceptionHandler*
+
+ex–
+Õ
+≠
+¢C:\Users\ashwini.patil\Documents\workspace-spring-tool-suite-4-4.3.0.RELEASE\demo-1\src\main\java\com\example\demo\exception\GlobalControllerExceptionHandler.java] (_
+ex"__annotation*
+
+%10*
+1
